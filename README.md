@@ -1,16 +1,34 @@
-### Hi there 👋
+# Hi there 👋 I'm Szabolcs!
 
-<!--
-**szabolcs-attila-sasvari/szabolcs-attila-sasvari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **Personal information**
 
-Here are some ideas to get you started:
+- 💻 I am currently attending **computer science engineering** at *Budapest University of Technology and Economics*
+- 🌍 Budapest, Hungarry
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **Languages**
+
+- 1️⃣ Python
+- 2️⃣ Java
+- 3️⃣ C++
+- 4️⃣ C
+
+## **Familiar with**
+
+- Operating systems
+    - 💿 macOs
+    - 💿 Windows
+    - 💿 Linux - Debian based
+- Softwares
+    - 💿 VS
+    - 💿 VS Code
+    - 💿 PyCharm
+    - 💿 IntelliJ IDEA
+    - 💿 CLion
+    - 💿 Xcode
+
+## **Interests**
+
+- 🔹 AI - Machine learning
+- 🔹 Robotics and Automation
+- 🔹 Embedded Software Development
+- 🔹 IOS App Development
