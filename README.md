@@ -3,7 +3,7 @@
 ## **Personal information**
 
 - 💻 I am currently attending **computer science engineering** at *Budapest University of Technology and Economics*
-- 🌍 Budapest, Hungarry
+- 🌍 Budapest, Hungary
 
 ## **Languages**
 
