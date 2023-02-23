@@ -1,34 +1,38 @@
 # Hi there 👋 I'm Szabolcs!
 
-## **Personal information**
+## **Personal Information**
 
-- 💻 I am currently attending **computer science engineering** at *Budapest University of Technology and Economics*
-- 🌍 Budapest, Hungary
+- <i class="fa-solid fa-computer"></i> -> I am currently attending **Computer Science Engineering, BSc** at *Budapest University of Technology and Economics*
+- <i class="fa-solid fa-laptop-mobile"></i> -> Technology enthusiast
+- <i class="fa-solid fa-location-dot"></i> -> Budapest, Hungary
 
-## **Languages**
+## **Programming Languages**
 
-- 1️⃣ Python
-- 2️⃣ Java
-- 3️⃣ C++
-- 4️⃣ C
+- <i class="fa-brands fa-python"></i> -> Python
+- <i class="fa-brands fa-java"></i> -> Java
+- <i class="fa-solid fa-c"></i><i class="fa-solid fa-plus"></i><i class="fa-solid fa-plus"></i> -> C++
+- <i class="fa-solid fa-c"></i> -> C
 
-## **Familiar with**
+## **Familiar With**
 
-- Operating systems
-    - 💿 macOs
-    - 💿 Windows
-    - 💿 Linux - Debian based
+- Operating Systems
+    - <i class="fa-brands fa-apple"></i> -> macOs
+    - <i class="fa-brands fa-microsoft"></i> -> Windows
+    - <i class="fa-brands fa-linux"></i> -> Linux
+    
 - Softwares
-    - 💿 VS
-    - 💿 VS Code
-    - 💿 PyCharm
-    - 💿 IntelliJ IDEA
-    - 💿 CLion
-    - 💿 Xcode
+    - <i class="fa-solid fa-disc-drive"></i> -> Xcode
+    - <i class="fa-solid fa-disc-drive"></i> -> PyCharm
+    - <i class="fa-solid fa-disc-drive"></i> -> IntelliJ IDEA
+    - <i class="fa-solid fa-disc-drive"></i> -> CLion
+    - <i class="fa-solid fa-disc-drive"></i> -> Visual Studio
+    - <i class="fa-solid fa-disc-drive"></i> -> Visual Studio Code
 
-## **Interests**
+## **Fields of Interest**
 
-- 🔹 AI - Machine learning
-- 🔹 Robotics and Automation
-- 🔹 Embedded Software Development
-- 🔹 IOS App Development
+- <i class="fa-solid fa-brain-circuit"></i> -> Artificial Intelligence
+- <i class="fa-solid fa-dna"></i> -> Data Science
+- <i class="fa-solid fa-robot"></i> -> Robotics Engineering
+- <i class="fa-solid fa-car-circle-bolt"></i> -> Automotive Industry
+- <i class="fa-solid fa-microchip"></i> -> Embedded Software Development
+- <i class="fa-solid fa-mobile-notch"></i> -> iOS App Development
