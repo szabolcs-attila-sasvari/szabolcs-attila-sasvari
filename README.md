@@ -1,5 +1,8 @@
 # Hi there 👋 I'm Szabolcs!
 
+<h1 align="center"><string>Social Links</string></h1>
+<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" class="centerImage" width="25" height="25">
+
 ## **Personal Information**
 
 - <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/computer.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-right-long.svg" width="75" height="25">I am currently attending **Computer Science Engineering, BSc** at *Budapest University of Technology and Economics*
