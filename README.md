@@ -8,7 +8,7 @@
 
 ## **Programming Languages**
 
-- <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/python.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-right-long.svg" width="50" height="25">  --->   Python
+- <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/python.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-right-long.svg" width="75" height="25">Python
 - <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/java.svg" width="25" height="25">  --->  Java
 - <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/c.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/plus.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/plus.svg" width="25" height="25">  --->  C++
 - <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/c.svg" width="25" height="25">  --->  C
