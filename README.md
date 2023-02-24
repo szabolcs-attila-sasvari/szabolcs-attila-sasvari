@@ -9,8 +9,8 @@
 ## **Personal Information**
 
 - <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/computer.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-right-long.svg" width="75" height="25">**I am currently attending <ins><strong>Computer Science Engineering, BSc</strong></ins> at *Budapest University of Technology and Economics***
-- <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/laptop-code.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-right-long.svg" width="75" height="25">Technology enthusiast
-- <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/location-dot.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-right-long.svg" width="75" height="25">Budapest, Hungary
+- <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/laptop-code.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-right-long.svg" width="75" height="25">**Technology enthusiast**
+- <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/location-dot.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-right-long.svg" width="75" height="25">**Budapest, Hungary**
 
 ## **Programming Languages**
 
