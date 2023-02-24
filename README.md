@@ -30,9 +30,9 @@
 
 ## **Fields of Interest**
 
-- <i class="fa-solid fa-brain-circuit"></i> -> __Artificial Intelligence__
-- <i class="fa-solid fa-dna"></i> -> __Data Science__
-- <i class="fa-solid fa-robot"></i> -> __Robotics Engineering__
-- <i class="fa-solid fa-car-circle-bolt"></i> -> __Automotive Industry__
-- <i class="fa-solid fa-microchip"></i> -> __Embedded Software Development__
-- <i class="fa-solid fa-mobile-notch"></i> -> __iOS App Development__
+- <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/brain.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-right-long.svg" width="75" height="25"><ins>Artificial Intelligence</ins>
+- <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/dna.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-right-long.svg" width="75" height="25"><ins>Data Science</ins>
+- <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/gear.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-right-long.svg" width="75" height="25"><ins>Robotics Engineering</ins>
+- <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/car.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-right-long.svg" width="75" height="25"><ins>Automotive Industry</ins>
+- <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/raspberry-pi.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-right-long.svg" width="75" height="25"><ins>Embedded Software Development</ins>
+- <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/mobile-screen-button.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-right-long.svg" width="75" height="25"><ins>iOS App Development</ins>
