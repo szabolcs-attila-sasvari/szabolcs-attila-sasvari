@@ -1,8 +1,10 @@
 # Hi there 👋 I'm Szabolcs!
 
-<h1 align="center">Social Links</h1>
+## **Social Links**
 
-[<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="25" height="25"/>](https://github.com/szabolcs-attila-sasvari)[<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/discord.svg" width="25" height="25"/>](https://discordapp.com/users/1076961579230310410)[<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/free-code-camp.svg" width="25" height="25"/>](https://www.freecodecamp.org/Szabolcs_Attila_Sasvari)
+- [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="25" height="25"/>](https://github.com/szabolcs-attila-sasvari)<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-right-long.svg" width="75" height="25">GitHub
+- [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/discord.svg" width="25" height="25"/>](https://discordapp.com/users/1076961579230310410)<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-right-long.svg" width="75" height="25">Discord
+- [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/free-code-camp.svg" width="25" height="25"/>](https://www.freecodecamp.org/Szabolcs_Attila_Sasvari)<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-right-long.svg" width="75" height="25">freeCodeCamp
 
 ## **Personal Information**
 
