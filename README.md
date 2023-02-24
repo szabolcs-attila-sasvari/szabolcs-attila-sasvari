@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Szabolcs!
 
-<h1 align="center"><b>Social Links</b></h1>
+<h1 align="center">Social Links</h1>
 
-[<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="25" height="25">](https://github.com/szabolcs-attila-sasvari)
+<p align="center">[<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="25" height="25">](https://github.com/szabolcs-attila-sasvari)</p>
 
 ## **Personal Information**
 
