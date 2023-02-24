@@ -8,7 +8,7 @@
 
 ## **Programming Languages**
 
-- <i class="fa-brands fa-python"></i> -> Python
+- <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/python.svg" width="50" height="50"> ->  Python
 - <i class="fa-brands fa-java"></i> -> Java
 - <i class="fa-solid fa-c"></i><i class="fa-solid fa-plus"></i><i class="fa-solid fa-plus"></i> -> C++
 - <i class="fa-solid fa-c"></i> -> C
