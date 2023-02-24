@@ -2,7 +2,9 @@
 
 <h1 align="center">Social Links</h1>
 
-<p align="center">[<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="25" height="25">](https://github.com/szabolcs-attila-sasvari)</p>
+<p align="center">
+    [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="25" height="25">](https://github.com/szabolcs-attila-sasvari)
+</p>
 
 ## **Personal Information**
 
