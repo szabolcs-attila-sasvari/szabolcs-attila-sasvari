@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Szabolcs!
 
 <h1 align="center"><string>Social Links</string></h1>
-<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" class="centerImage" width="25" height="25">
+<center><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="25" height="25"></center>
 
 ## **Personal Information**
 
