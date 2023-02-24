@@ -8,25 +8,25 @@
 
 ## **Programming Languages**
 
-- <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/python.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-right-long.svg" width="125" height="25">::Python::
-- <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/java.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-right-long.svg" width="125" height="25">Java
-- <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/c.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/plus.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/plus.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-right-long.svg" width="75" height="25">C++
-- <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/c.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-right-long.svg" width="125" height="25">C
+- <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/python.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-right-long.svg" width="125" height="25">**Python**
+- <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/java.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-right-long.svg" width="125" height="25">**Java**
+- <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/c.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/plus.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/plus.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-right-long.svg" width="75" height="25">**C++**
+- <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/c.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-right-long.svg" width="125" height="25">**C**
 
 ## **Familiar With**
 
 - *Operating Systems*
-    - <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/apple.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-right-long.svg" width="75" height="25">macOs
-    - <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/microsoft.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-right-long.svg" width="75" height="25">Windows
-    - <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/linux.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-right-long.svg" width="75" height="25">Linux
+    - <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/apple.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-right-long.svg" width="75" height="25">**macOs**
+    - <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/microsoft.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-right-long.svg" width="75" height="25">**Windows**
+    - <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/linux.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-right-long.svg" width="75" height="25">**Linux**
     
 - *Softwares*
-    - <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/file-code.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-right-long.svg" width="75" height="25">Xcode
-    - <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/file-code.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-right-long.svg" width="75" height="25">PyCharm
-    - <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/file-code.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-right-long.svg" width="75" height="25">IntelliJ IDEA
-    - <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/file-code.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-right-long.svg" width="75" height="25">CLion
-    - <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/file-code.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-right-long.svg" width="75" height="25">Visual Studio
-    - <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/file-code.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-right-long.svg" width="75" height="25">Visual Studio Code
+    - <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/file-code.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-right-long.svg" width="75" height="25">**Xcode**
+    - <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/file-code.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-right-long.svg" width="75" height="25">**PyCharm**
+    - <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/file-code.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-right-long.svg" width="75" height="25">**IntelliJ IDEA**
+    - <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/file-code.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-right-long.svg" width="75" height="25">**CLion**
+    - <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/file-code.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-right-long.svg" width="75" height="25">**Visual Studio**
+    - <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/file-code.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-right-long.svg" width="75" height="25">**Visual Studio Code**
 
 ## **Fields of Interest**
 
