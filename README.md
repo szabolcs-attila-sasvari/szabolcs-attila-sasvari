@@ -2,16 +2,16 @@
 
 ## **Personal Information**
 
-- <i class="fa-solid fa-computer"></i> -> I am currently attending **Computer Science Engineering, BSc** at *Budapest University of Technology and Economics*
-- <i class="fa-solid fa-laptop-mobile"></i> -> Technology enthusiast
-- <i class="fa-solid fa-location-dot"></i> -> Budapest, Hungary
+- <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/computer.svg" width="25" height="25"> ---> I am currently attending **Computer Science Engineering, BSc** at *Budapest University of Technology and Economics*
+- <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/laptop-code.svg" width="25" height="25"> ---> Technology enthusiast
+- <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/location-dot.svg" width="25" height="25"> ---> Budapest, Hungary
 
 ## **Programming Languages**
 
-- <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/python.svg" width="20" height="20"> ->  Python
-- <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/java.svg" width="20" height="20"> -> Java
-- <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/c.svg" width="20" height="20"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/plus.svg" width="20" height="20"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/plus.svg" width="20" height="20"> -> C++
-- <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/c.svg" width="20" height="20"> -> C
+- <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/python.svg" width="25" height="25"> --->  Python
+- <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/java.svg" width="25" height="25"> ---> Java
+- <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/c.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/plus.svg" width="25" height="25"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/plus.svg" width="25" height="25"> ---> C++
+- <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/c.svg" width="25" height="25"> ---> C
 
 ## **Familiar With**
 
